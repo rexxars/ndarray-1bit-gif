@@ -15,6 +15,14 @@ bitgif(ndarray[, options = {}]); // Returns a stream
 `options` currently has one option:
   - `invert` (boolean) - Inverts the colors
 
+# Installing
+
+Install the library using [npm](http://npmjs.org):
+
+```sh
+npm install ndarray-1bit-gif
+```
+
 # Example
 
 ``` js
