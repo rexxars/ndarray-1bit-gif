@@ -1,0 +1,33 @@
+{
+  "name": "ndarray-bit-gif",
+  "version": "0.0.1",
+  "description": "Creates 1-bit GIF-images from an ndarray of bits",
+  "main": "index.js",
+  "dependencies": {
+    "gif-encoder": "^0.4.1",
+    "isndarray": "^0.1.0"
+  },
+  "devDependencies": {
+    "tape": "^2.13.1",
+    "ndarray-bit": "0.0.0",
+    "concat-stream": "^1.4.5"
+  },
+  "scripts": {
+    "test": "node test/bitgif.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rexxars/ndarray-bit-gif.git"
+  },
+  "keywords": [
+    "1bit",
+    "gif",
+    "ndarray"
+  ],
+  "author": "Espen Hovlandsdal <espen@hovlandsdal.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rexxars/ndarray-bit-gif/issues"
+  },
+  "homepage": "https://github.com/rexxars/ndarray-bit-gif"
+}
