@@ -24,6 +24,11 @@
     "gif",
     "ndarray"
   ],
+  "files": [
+    "index.js",
+    "README.md",
+    "LICENSE"
+  ],
   "author": "Espen Hovlandsdal <espen@hovlandsdal.com>",
   "license": "MIT",
   "bugs": {
